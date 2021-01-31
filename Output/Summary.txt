@@ -7,4 +7,4 @@ Unique Items: 179
 Total Revenue: $2379.77
 Average Purchase: $3.0509871794871795
 Conclusions: 
-The overwhelming majority of gamers who make purchases are male.There is little range in the average purchase between players, the average purchase for all players is less than $2 less than the highest spending players.
+The overwhelming majority of gamers who make purchases are male.There is little range in the average purchase between players, the average purchase for all players is less than $2 less than the highest spending players.Final Critic, Oathbreaker, and Nirvana are the 3 most succesful items sold by the game thus far, being both top 3 in bestselling and most profitable
