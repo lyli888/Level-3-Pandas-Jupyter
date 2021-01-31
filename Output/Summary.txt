@@ -5,4 +5,6 @@ Total Sales : 780
 Total Players: 576
 Unique Items: 179
 Total Revenue: $2379.77
-Average Price: $3.0509871794871795
+Average Purchase: $3.0509871794871795
+Conclusions: 
+The overwhelming majority of gamers who make purchases are male.There is little range in the average purchase between players, the average purchase for all players is less than $2 less than the highest spending players.
