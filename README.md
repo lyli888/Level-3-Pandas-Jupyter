@@ -1,4 +1,4 @@
-### Pandas/Jupyter HW
+### Pandas/Jupyter HW (Python)
 
 Import the given csv data  file on in-game purchases and write a Python script to perform the following analysis:
 
