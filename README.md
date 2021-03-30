@@ -1,5 +1,5 @@
 
-Import the given csv data  file on in-game purchases and write a Python script to perform the following analysis:
+Import the given csv data files analyzing in-game purchases & player demographics for a newly released videogame, and write a Python script to perform the following analysis:
 
 ### Player Count
 
